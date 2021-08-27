@@ -34,7 +34,7 @@ public class Menu extends JFrame{
 		miInicio = new JMenuItem("Inicio");
 		miInicio.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_S, ActionEvent.CTRL_MASK));//criação de um atalho
 		miOvo = new JMenuItem("Ovo Frito");
-		miSalada = new JMenuItem("Salada");
+		miSalada = new JMenuItem("Tomate");
 		miPao = new JMenuItem("Pao");
 		miChurrasco = new JMenuItem("Churrasco");
 		miSushi = new JMenuItem("Sushi");
